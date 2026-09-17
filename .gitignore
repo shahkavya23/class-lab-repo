@@ -1,0 +1,4 @@
+backend/.env
+backend/node_modules/
+frontend/shop-kart frontend/node_modules/
+frontend/shop-kart frontend/dist/
