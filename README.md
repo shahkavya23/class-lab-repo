@@ -1,4 +1,4 @@
-# ShopKart
+# ShopEasy
 
 A full-stack e-commerce web app built with the MERN stack. Users can browse products, manage a cart and wishlist, check out with Razorpay (test mode), and view their order history.
 
